@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_delete"
+        android:title="@string/menu_delete"/>
+    <item
+        android:id="@+id/menu_record_new_signal"
+        android:title="@string/record_new_signal"/>
+    <item
+        android:id="@+id/menu_update_user_info"
+        android:title="@string/update_user_info"/>
+
+</menu>
