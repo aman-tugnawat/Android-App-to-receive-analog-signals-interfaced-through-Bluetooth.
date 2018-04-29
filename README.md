@@ -3,6 +3,7 @@ Signal Clould
 - Open-souce Android App  for receiving from data sensor modules.
 - Plots raw sensor data on a graph.
 - Supports Bluetooth Serial Port Profile
+- Hardware used : Bluetooth HC-05, Arduino, Raspberry Pi and Beagle bone black 
 - Research Summer Internship 2014 at Design and Innovation Hub IIT(BHU)-Varanasi
 - Receive analog signals from Arduino, Raspberry Pi and Beagle bone Black interfaced through Bluetooth module. [Arduino code provided.]
 
