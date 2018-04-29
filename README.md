@@ -1,6 +1,6 @@
 Signal Clould
 ===================================================================
-- Open-souce Android App  for receiving data sensor modules.
+- Open-souce Android App  for receiving from data sensor modules.
 - Plots raw sensor data on a graph.
 - Supports Bluetooth Serial Port Profile
 - Research Summer Internship 2014 at Design and Innovation Hub IIT(BHU)-Varanasi
